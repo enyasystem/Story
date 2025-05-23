@@ -1,4 +1,4 @@
-# 📚 Week-1 Story Project
+# 📚 Story Project
 
 Welcome to the Week-1 Story Project! This project contains a short, original story told across three chapters, each in its own file:
 
